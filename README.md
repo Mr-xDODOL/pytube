@@ -3,11 +3,9 @@ PyTube (Download Audio / Video using python3).
 Without having to open Google for audio / video downloads. And certainly free from advertisements.
 
 # GitHub
-```https://github.com/ITermSec
-```
+```https://github.com/ITermSec/```
 # Instagram
-```https://www.instagram.com/itermsec_/
-```
+```https://www.instagram.com/itermsec_/```
 
 # Installation KALI : 
 ```
